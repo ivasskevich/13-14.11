@@ -1,0 +1,28 @@
+
+   
+
+    .container {
+      width: 75%;
+    }
+
+    .carousel {
+      margin-top: 20px;
+    }
+
+    .search-container {
+      width: 75%;
+      margin: auto;
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .category-container {
+      margin-top: 50px;
+    }
+
+    .footer-container {
+      margin-top: 20px;
+      padding: 20px 0;
+    }
